@@ -2,6 +2,8 @@
 +++ Propresenter Scoreboard by Micha Bokelmann +++
 ---------------------
 
+hi this is my testfeature
+
 KNOWN ISSUES:
 
 IDEAS:
