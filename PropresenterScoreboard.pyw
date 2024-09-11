@@ -2,15 +2,6 @@
 +++ Propresenter Scoreboard by Micha Bokelmann +++
 ---------------------
 
-KNOWN ISSUES:
-
-IDEAS:
-- Leaderboard als Fenster öffnen (im counter)
-- show-Buttons in #view verschieben
-- Menu-Bar: Guide, Updates
-- Right-Click to rename a Column on the Counter Page
-- Freeze Counter Output
-
 WIP:
 
 EDIT FOR EVERY VERSION:
